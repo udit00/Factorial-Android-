@@ -1,4 +1,5 @@
-class MainActivity extends AppCompatActivity {
+
+public class MainActivity extends AppCompatActivity {
     String getValue;
     long value;
     TextView textView;
@@ -13,8 +14,16 @@ class MainActivity extends AppCompatActivity {
     public void startFactorial(View view){
         getValue=editText.getText().toString();
         value = Integer.parseInt(getValue);
-        value = getFactorial(value);
-        textView.setText(String.valueOf(value));
+        if(value<0){
+            textView.setText("Negative Input");
+        }
+        else if(value>2) {
+            value = getFactorial(value);
+            textView.setText(String.valueOf(value));
+        }
+        else{
+            textView.setText("Please enter >2");
+        }
     }
     public long getFactorial(long findN){
         if(findN<2) return findN;
