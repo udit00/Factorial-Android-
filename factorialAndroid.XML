@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#FF5722">
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:hint="RESULT"
+        android:textAlignment="center"
+        android:paddingTop="20dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="70dp"
+        android:id="@+id/textView"
+        android:shadowColor="#761414"
+        android:textSize="50dp"
+        android:inputType="number"
+        android:background="@drawable/border"
+        />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="200dp"
+        android:hint="Type Here"
+        android:inputType="numberSigned"
+        android:textAlignment="center" />
+
+    <Button
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:onClick="startFactorial"
+        android:layout_marginLeft="175dp"
+        android:layout_marginTop="300dp"
+        android:background="@color/colorAccent"
+        android:textColor="@color/colorPrimaryDark"
+        android:hint="SUBMIT"
+        />
+
+
+</RelativeLayout>
