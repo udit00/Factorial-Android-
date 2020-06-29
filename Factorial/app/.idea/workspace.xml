@@ -6,7 +6,15 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a25fa21-48f5-48a3-82ca-aeb7523ea3ce" name="Default Changelist" comment="" />
+    <list default="true" id="2a25fa21-48f5-48a3-82ca-aeb7523ea3ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/factorial/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/factorial/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/border.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/border.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +40,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1docOGwjr8HHqICgp6TzFfzYu58" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,8 +54,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.85864488">
+      <recent name="com.example.factorial" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -121,14 +141,38 @@
       <screen x="60" y="27" width="1540" height="873" />
     </state>
     <state x="419" y="221" width="824" height="491" key="AndroidCreateResourceDirectoryDialog/60.27.1540.873@60.27.1540.873" timestamp="1593240520283" />
-    <state x="419" y="221" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1593240550198">
+    <state x="419" y="221" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1593415229685">
       <screen x="60" y="27" width="1540" height="873" />
     </state>
-    <state x="419" y="221" width="824" height="491" key="AndroidCreateResourceFileDialog/60.27.1540.873@60.27.1540.873" timestamp="1593240550198" />
-    <state x="483" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1593240069777">
+    <state x="419" y="221" width="824" height="491" key="AndroidCreateResourceFileDialog/60.27.1540.873@60.27.1540.873" timestamp="1593415229685" />
+    <state x="679" y="278" width="292" height="377" key="AndroidCreateXmlResourceDialog" timestamp="1593414143138">
       <screen x="60" y="27" width="1540" height="873" />
     </state>
-    <state x="483" y="291" key="com.intellij.ide.util.TipDialog/60.27.1540.873@60.27.1540.873" timestamp="1593240069777" />
+    <state x="679" y="278" width="292" height="377" key="AndroidCreateXmlResourceDialog/60.27.1540.873@60.27.1540.873" timestamp="1593414143138" />
+    <state x="619" y="221" width="424" height="491" key="FileChooserDialogImpl" timestamp="1593243145652">
+      <screen x="60" y="27" width="1540" height="873" />
+    </state>
+    <state x="619" y="221" width="424" height="491" key="FileChooserDialogImpl/60.27.1540.873@60.27.1540.873" timestamp="1593243145652" />
+    <state width="1494" height="216" key="GridCell.Tab.0.bottom" timestamp="1593415564517">
+      <screen x="60" y="27" width="1540" height="873" />
+    </state>
+    <state width="1494" height="216" key="GridCell.Tab.0.bottom/60.27.1540.873@60.27.1540.873" timestamp="1593415564517" />
+    <state width="1494" height="216" key="GridCell.Tab.0.center" timestamp="1593415564517">
+      <screen x="60" y="27" width="1540" height="873" />
+    </state>
+    <state width="1494" height="216" key="GridCell.Tab.0.center/60.27.1540.873@60.27.1540.873" timestamp="1593415564517" />
+    <state width="1494" height="216" key="GridCell.Tab.0.left" timestamp="1593415564517">
+      <screen x="60" y="27" width="1540" height="873" />
+    </state>
+    <state width="1494" height="216" key="GridCell.Tab.0.left/60.27.1540.873@60.27.1540.873" timestamp="1593415564517" />
+    <state width="1494" height="216" key="GridCell.Tab.0.right" timestamp="1593415564517">
+      <screen x="60" y="27" width="1540" height="873" />
+    </state>
+    <state width="1494" height="216" key="GridCell.Tab.0.right/60.27.1540.873@60.27.1540.873" timestamp="1593415564517" />
+    <state x="483" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1593417201012">
+      <screen x="60" y="27" width="1540" height="873" />
+    </state>
+    <state x="483" y="291" key="com.intellij.ide.util.TipDialog/60.27.1540.873@60.27.1540.873" timestamp="1593417201012" />
     <state x="492" y="291" key="com.intellij.ide.util.TipDialog/72.27.1528.873@72.27.1528.873" timestamp="1593166222384" />
   </component>
 </project>
