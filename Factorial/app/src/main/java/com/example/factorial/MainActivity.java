@@ -57,11 +57,12 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 return true;
             case R.id.item2:
-                intent=new Intent(this , Palindrome.class);
+               intent=new Intent(this , Palindrome.class);
                 startActivity(intent);
                 return true;
             case R.id.item3:
                 textView.setText("hello world");
+                return true;
             default:
                 textView.setText("WHyyyyYYYY");
         }
