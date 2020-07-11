@@ -4,45 +4,44 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FF5722">
+    tools:context=".MainActivity"
+    android:background="#464E4E">
 
-    <TextView
-        android:layout_width="300dp"
-        android:layout_height="100dp"
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="100sp"
         android:hint="RESULT"
         android:textAlignment="center"
-        android:paddingTop="20dp"
-        android:layout_marginTop="60dp"
-        android:layout_marginLeft="70dp"
-        android:id="@+id/textView"
+        android:paddingTop="20sp"
+        android:layout_marginTop="60sp"
+        android:id="@+id/resultViewFactorial"
         android:shadowColor="#761414"
         android:textSize="50dp"
         android:inputType="number"
-        android:background="@drawable/border"
-        />
+        tools:ignore="TextViewEdits" />
 
     <EditText
         android:id="@+id/editText"
-        android:layout_width="190dp"
+        android:layout_width="190sp"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="200dp"
+        android:layout_marginLeft="120sp"
+        android:layout_marginTop="380sp"
         android:hint="Type Here"
+        android:textColorHint="#000000"
         android:inputType="numberSigned"
         android:textAlignment="center" />
 
     <Button
-        android:layout_width="80dp"
-        android:layout_height="40dp"
-        android:onClick="startFactorial"
-        android:layout_marginLeft="175dp"
-        android:layout_marginTop="300dp"
-        android:background="@color/colorAccent"
-        android:textColor="@color/colorPrimaryDark"
-        android:hint="SUBMIT"
         android:id="@+id/findFact"
-        />
-
+        android:layout_width="190sp"
+        android:layout_height="60sp"
+        android:layout_marginLeft="120sp"
+        android:layout_marginTop="580sp"
+        android:background="@drawable/curve"
+        android:hint="SUBMIT"
+        android:textColorHint="#FFFFFF"
+        android:onClick="startFactorial"
+        android:textColor="#FFFFFF" />
 
 
 </RelativeLayout>

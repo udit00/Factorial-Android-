@@ -7,12 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a25fa21-48f5-48a3-82ca-aeb7523ea3ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/factorial/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/factorial/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/border.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/border.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,10 +145,10 @@
       <screen x="60" y="27" width="1540" height="873" />
     </state>
     <state x="679" y="278" width="292" height="377" key="AndroidCreateXmlResourceDialog/60.27.1540.873@60.27.1540.873" timestamp="1593414143138" />
-    <state x="619" y="221" width="424" height="491" key="FileChooserDialogImpl" timestamp="1593243145652">
+    <state x="212" y="200" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594432243860">
       <screen x="60" y="27" width="1540" height="873" />
     </state>
-    <state x="619" y="221" width="424" height="491" key="FileChooserDialogImpl/60.27.1540.873@60.27.1540.873" timestamp="1593243145652" />
+    <state x="212" y="200" width="424" height="491" key="FileChooserDialogImpl/60.27.1540.873@60.27.1540.873" timestamp="1594432243860" />
     <state width="1494" height="216" key="GridCell.Tab.0.bottom" timestamp="1593415564517">
       <screen x="60" y="27" width="1540" height="873" />
     </state>
@@ -169,10 +165,10 @@
       <screen x="60" y="27" width="1540" height="873" />
     </state>
     <state width="1494" height="216" key="GridCell.Tab.0.right/60.27.1540.873@60.27.1540.873" timestamp="1593415564517" />
-    <state x="483" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1593417201012">
+    <state x="483" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1594428115977">
       <screen x="60" y="27" width="1540" height="873" />
     </state>
-    <state x="483" y="291" key="com.intellij.ide.util.TipDialog/60.27.1540.873@60.27.1540.873" timestamp="1593417201012" />
+    <state x="483" y="291" key="com.intellij.ide.util.TipDialog/60.27.1540.873@60.27.1540.873" timestamp="1594428115977" />
     <state x="492" y="291" key="com.intellij.ide.util.TipDialog/72.27.1528.873@72.27.1528.873" timestamp="1593166222384" />
   </component>
 </project>
