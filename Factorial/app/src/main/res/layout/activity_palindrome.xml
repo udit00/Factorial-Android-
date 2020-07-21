@@ -15,7 +15,7 @@
         android:layout_marginTop="60sp"
         android:paddingTop="10sp"
         android:text="Result"
-        android:textAlignment="textStart"
+        android:textAlignment="center"
         android:textColor="#010407"
         android:textSize="20sp"
         android:textStyle="bold"

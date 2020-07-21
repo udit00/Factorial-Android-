@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class Palindrome extends AppCompatActivity {
-    String getInput;
+    Editable getInput;
     TextView resultPalindrome;
     EditText checkPalindrome;
     Button submitButton;
@@ -27,13 +27,13 @@ public class Palindrome extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 getInput= "" + checkPalindrome.getText();
-                String reversed = new String();
+                Editable reversed;
                 for(int i=getInput.length()-1; i>=0; i--) reversed += getInput.charAt(i);
                 if(getInput==reversed){
                     resultPalindrome.setText(new StringBuilder().append("YES").append(reversed).toString());
                 }
                 else{
-                    resultPalindrome.setText("NO"+getInput);
+                    resultPalindrome.setText("NO");
                 }
             }
         });
