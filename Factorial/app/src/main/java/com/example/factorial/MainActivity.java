@@ -61,7 +61,9 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 return true;
             case R.id.item3:
-                textView.setText("hello world");
+                intent=new Intent(this, PrimeNumber.class);
+                startActivity(intent);
+                return true;
             default:
                 textView.setText("WHyyyyYYYY");
         }
